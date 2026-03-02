@@ -2,7 +2,7 @@ name: Build & Publish tech-radar image
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "master"]
     tags:
       - "v*"
   workflow_dispatch:
