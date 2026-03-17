@@ -5,12 +5,28 @@
     { "quadrant": 3, "ring": 0, "label": "React", "active": true, "moved": 0 },
     { "quadrant": 3, "ring": 0, "label": "Node.js", "active": true, "moved": 0 },
     { "quadrant": 3, "ring": 0, "label": "Python", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 0, "label": "Vite", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 0, "label": "Vitest", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 0, "label": "Playwright", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 1, "label": "Zod", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 1, "label": "Three.js", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 1, "label": "React Three Fiber", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 1, "label": "Zustand", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 1, "label": "Tanstack Query", "active": true, "moved": 0 },
+    { "quadrant": 3, "ring": 2, "label": "Redux Toolkit", "active": true, "moved": 0 },
 
     { "quadrant": 2, "ring": 0, "label": "PostgreSQL", "active": true, "moved": 0 },
-    { "quadrant": 2, "ring": 0, "label": "AWS", "active": true, "moved": 0 },
+    { "quadrant": 2, "ring": 1, "label": "Object storage (e.g., S3)", "active": true, "moved": 0 },
+    { "quadrant": 2, "ring": 1, "label": "Cloud Hosting", "active": true, "moved": 0 },
+    { "quadrant": 2, "ring": 2, "label": "SQLite (local)", "active": true, "moved": 0 },
 
-    { "quadrant": 1, "ring": 0, "label": "Docker", "active": true, "moved": 0 },
-    { "quadrant": 1, "ring": 0, "label": "GitHub Actions", "active": true, "moved": 0 }
+    { "quadrant": 1, "ring": 0, "label": "Docker", "active": true, "moved": 0 }, 
+    { "quadrant": 1, "ring": 0, "label": "GitHub Actions", "active": true, "moved": 0 },
+    { "quadrant": 1, "ring": 1, "label": "Application Monitoring", "active": true, "moved": 0 },
+    { "quadrant": 1, "ring": 1, "label": "Copilot", "active": true, "moved": 0 },
 
+    { "quadrant": 0, "ring": 0, "label": "Agile Methodology", "active": true, "moved": 0 },
+    { "quadrant": 0, "ring": 0, "label": "Object-Oriented Programming", "active": true, "moved": 0 },
+    { "quadrant": 0, "ring": 1, "label": "Test Driven Development", "active": true, "moved": 0 }
   ]
 }
