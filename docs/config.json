@@ -25,7 +25,6 @@
     { "quadrant": 1, "ring": 1, "label": "Application Monitoring", "active": true, "moved": 0 },
     { "quadrant": 1, "ring": 1, "label": "Copilot", "active": true, "moved": 0 },
 
-    { "quadrant": 0, "ring": 0, "label": "Agile Methodology", "active": true, "moved": 0 },
     { "quadrant": 0, "ring": 0, "label": "Object-Oriented Programming", "active": true, "moved": 0 },
     { "quadrant": 0, "ring": 1, "label": "Test Driven Development", "active": true, "moved": 0 }
   ]
